@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crypto-adam
+- 👋 Hi, I’m Adam (@crypto-adam)
 - 👀 I’m interested in Machine Learning, Data Analytics and Software Development
 - 🌱 I’m currently an A-Level student but in my spare time I like to program using Python
 - 💞️ I’ve recently been interested in Physical Computing projects using microcontrollers like the Raspberry Pi Pico
